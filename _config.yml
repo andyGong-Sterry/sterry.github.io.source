@@ -80,5 +80,5 @@ theme: theme-ad
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:andyGong-Sterry/andyGong-Sterry.github.io.git
+  repo: git@github.com:chh-jiang/chh-jiang.github.io.git
   branch: master
